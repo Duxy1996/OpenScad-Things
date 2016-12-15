@@ -1,4 +1,4 @@
-infinite = 1000;
+infinite = 25;
 high = 300;
 group(){
 group(){
